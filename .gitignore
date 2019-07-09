@@ -1,0 +1,10 @@
+*.swp
+*.class
+.DS_Store
+/bin/
+/build/
+/report/
+/tests/wave/student.out/
+/tests/f/student.out/
+/tests/vhdl/student.out/
+RunAlloy351.als
